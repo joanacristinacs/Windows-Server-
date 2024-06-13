@@ -6,7 +6,7 @@
 
 Este repositório apresenta um guia detalhado para a configuração de um servidor Windows 2016 com o uso do VirtualBox para simular um ambiente de rede. Desenvolvido para a disciplina de Redes II, este projeto visa proporcionar uma experiência prática na configuração e administração de servidores em um ambiente virtualizado.
 
-🔍 Para mais detalhes, acesse a [Wiki](#).
+🔍 Para mais detalhes, acesse a [Wiki](https://github.com/joanacristinacs/Windows-Server-/wiki).
 
 ## ÍNDICE
 * [Requisitos Iniciais](#requisitos-iniciais)
